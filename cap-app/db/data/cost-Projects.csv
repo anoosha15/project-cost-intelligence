@@ -1,0 +1,21 @@
+ID,name,costCenter_ID,type,startDate
+P100,Plant Line Upgrade,CC10,Capex,2025-04-01
+P110,Warehouse Expansion,CC20,Capex,2025-04-01
+P120,Data Center Refresh,CC30,Opex,2025-06-01
+P130,Office Renovation,CC40,Capex,2025-05-01
+P140,Lab Equipment Install,CC50,Capex,2025-05-01
+P150,Packaging Automation,CC10,Opex,2025-05-01
+P160,Fleet Tracking System,CC20,Capex,2025-04-01
+P170,Solar Rooftop,CC30,Capex,2025-04-01
+P180,ERP Integration,CC40,Opex,2025-07-01
+P190,Cold Storage Build,CC50,Capex,2025-04-01
+P200,Network Modernization,CC10,Capex,2025-04-01
+P210,Safety Systems Retrofit,CC20,Opex,2025-04-01
+P220,Assembly Robotics,CC30,Capex,2025-05-01
+P230,Cafeteria Remodel,CC40,Capex,2025-05-01
+P240,Test Bench Setup,CC50,Opex,2025-04-01
+P250,Dock Automation,CC10,Capex,2025-05-01
+P260,Backup Power Upgrade,CC20,Capex,2025-07-01
+P270,Quality Lab Expansion,CC30,Opex,2025-05-01
+P280,Visitor Center Build,CC40,Capex,2025-07-01
+P290,Pilot Plant Setup,CC50,Capex,2025-06-01
